@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Learn-C\\2\\2.2 fathm_ft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D14C187-228B-4BC8-B090-9E16A048E326}|2.2 fathm_ft\\2.2 fathm_ft.vcxproj|D:\\github\\Learn-C\\2\\2.2 fathm_ft\\2.2 fathm_ft\\fathm_ft.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D14C187-228B-4BC8-B090-9E16A048E326}|2.2 fathm_ft\\2.2 fathm_ft.vcxproj|solutionrelative:2.2 fathm_ft\\fathm_ft.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fathm_ft.c",
+              "DocumentMoniker": "D:\\github\\Learn-C\\2\\2.2 fathm_ft\\2.2 fathm_ft\\fathm_ft.c",
+              "RelativeDocumentMoniker": "2.2 fathm_ft\\fathm_ft.c",
+              "ToolTip": "D:\\github\\Learn-C\\2\\2.2 fathm_ft\\2.2 fathm_ft\\fathm_ft.c",
+              "RelativeToolTip": "2.2 fathm_ft\\fathm_ft.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T07:00:53.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
