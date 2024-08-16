@@ -1,0 +1,3 @@
+﻿  charcode.c
+D:\github\Learn-C\3\3.5 charcode\3.5 charcode\charcode.c(7,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  3.5 charcode.vcxproj -> D:\github\Learn-C\3\3.5 charcode\3.5 charcode\x64\Debug\3.5 charcode.exe

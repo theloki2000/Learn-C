@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Learn-C\\3\\3.5 charcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{507D550B-E3CC-40D2-89A2-F33EED564B60}|3.5 charcode\\3.5 charcode.vcxproj|D:\\github\\Learn-C\\3\\3.5 charcode\\3.5 charcode\\charcode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{507D550B-E3CC-40D2-89A2-F33EED564B60}|3.5 charcode\\3.5 charcode.vcxproj|solutionrelative:3.5 charcode\\charcode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "charcode.c",
+              "DocumentMoniker": "D:\\github\\Learn-C\\3\\3.5 charcode\\3.5 charcode\\charcode.c",
+              "RelativeDocumentMoniker": "3.5 charcode\\charcode.c",
+              "ToolTip": "D:\\github\\Learn-C\\3\\3.5 charcode\\3.5 charcode\\charcode.c",
+              "RelativeToolTip": "3.5 charcode\\charcode.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T15:13:32.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
